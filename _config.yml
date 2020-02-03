@@ -1,7 +1,7 @@
 # Site settings
 title: Vivek Choudhary
 description: 'Hi! I am Second Year Undergraduate of Computer Science and Engineering at IIIT Nagpur. I am broadly interested in Data Structures, Algorithms, Competitive programming and their applications. For more details on the academic front, have a look at my resume and profile in links given.'
-url: 'http://choudharyvivek9719.github.io'
+url: 'https://choudharyvivek9719.github.io/website/'
 # baseurl: '/sarthakeddy.github.io'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
@@ -9,11 +9,11 @@ url: 'http://choudharyvivek9719.github.io'
 author:
   name: 'Vivek Choudhary'
   email: choudharyvivek9719@gmail.com
-  atcoder_username: Vivek Choudhary
-  codeforces_username: Vivek Choudhary
-  codechef_username: Vivek Choudhary
-  github_username:  Vivek Choudhary
-  linkedin_username:  Vivek Choudhary
+  atcoder_username: vivek9719
+  codeforces_username: vivek9719
+  codechef_username: vivek9719
+  github_username:  choudharyvivek9719
+  linkedin_username:  vivek-choudhary-b23a85176
 
 defaults:
   -
